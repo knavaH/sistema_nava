@@ -1,0 +1,116 @@
+li span {
+    margin-right: 20px;
+}
+
+header {
+    margin: 0 0 3px;
+    background: #fff;
+}
+
+header h3 {
+    border-bottom: 3px solid;
+}
+
+body {
+    background: #F2F2F2;
+
+}
+
+
+aside {
+    background: #fff;
+}
+
+section {
+    background: #fff;
+    min-height: 400px;
+}
+h1 {
+    color: #449d44;
+    font-size: 30px;
+}
+
+li {
+    list-style: none;
+
+}
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+.form_cal input[type="text"]{
+  background: transparent;
+  width: 3em;
+  border :0px;
+}
+.form_cal input[type="numeric"]{
+  background: transparent;
+  border :0px;
+  width: 40px;
+}
+
+.form_perfil input[type="text"]{
+  background: transparent;
+  border :0px;
+  width: 500px;
+}
+.form_perfil input[type="password"]{
+  background: transparent;
+  border :0px;
+  width: 500px;
+}
+.form_perfil input[type="email"]{
+  background: transparent;
+  border :0px;
+  width: 500px;
+}
+#form-cal-name{
+  background:transparent;
+  border: 0px;
+  width: 20em;
+}
+#nombre{
+  background:transparent;
+  border: 0px;
+  width: 20em;
+}
+
+
+/** Agregar esto **/
+.modal-footer{
+  background: #fff;
+  margin-top: 20px;
+}
+#myModal .modal-header{
+  background: #337ab7;
+  color: #fff;
+}
+#myModal  .btn-default{
+  background: #337ab7;
+  color: #fff;
+}
+#editBtn{
+
+  width: 65px;
+  height: 30px; 
+}
+#edit-modal .modal-header{
+  background: #337ab7;
+  color: #fff;
+}
+#edit-modal  .btn-default{
+  background: #337ab7;
+  color: #fff;
+}
+
+.modal-header{
+  color: #fff;
+  background: rgb(51, 122, 183);
+}
+.th-title{
+  color: #fff;
+  background: rgb(51, 122, 183);
+}
+
+
